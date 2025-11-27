@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cat-1",
+    "slug": "forex",
+    "name": "Forex Brokers",
+    "description": "Trade 60+ currency pairs with regulated brokers. Compare spreads, leverage, and regulation.",
+    "icon": "TrendingUp",
+    "count": 47,
+    "color": "#00D4A1"
+  },
+  {
+    "id": "cat-2",
+    "slug": "crypto",
+    "name": "Crypto Brokers",
+    "description": "Buy and trade Bitcoin, Ethereum, and 400+ cryptocurrencies on trusted exchanges.",
+    "icon": "Bitcoin",
+    "count": 32,
+    "color": "#F59E0B"
+  },
+  {
+    "id": "cat-3",
+    "slug": "sports-betting",
+    "name": "Sports Betting",
+    "description": "Bet on your favorite sports legally. Best odds, live betting, and fast payouts.",
+    "icon": "Trophy",
+    "count": 58,
+    "color": "#EF4444"
+  },
+  {
+    "id": "cat-4",
+    "slug": "stocks",
+    "name": "Stock Trading",
+    "description": "Invest in 5,000+ stocks and ETFs with commission-free trading platforms.",
+    "icon": "LineChart",
+    "count": 29,
+    "color": "#3B82F6"
+  },
+  {
+    "id": "cat-5",
+    "slug": "casinos",
+    "name": "Online Casinos",
+    "description": "Play 4,000+ slots, live dealer games, and win real money at licensed casinos.",
+    "icon": "Sparkles",
+    "count": 84,
+    "color": "#8B5CF6"
+  },
+  {
+    "id": "cat-6",
+    "slug": "cfds",
+    "name": "CFD Trading",
+    "description": "Trade contracts for difference on indices, commodities, and more.",
+    "icon": "BarChart",
+    "count": 23,
+    "color": "#06B6D4"
+  },
+  {
+    "id": "cat-7",
+    "slug": "banks",
+    "name": "Banks & Cards",
+    "description": "Neobanks, debit cards, and fintech platforms with no fees and cashback rewards.",
+    "icon": "CreditCard",
+    "count": 18,
+    "color": "#10B981"
+  },
+  {
+    "id": "cat-8",
+    "slug": "prop-firms",
+    "name": "Prop Firms",
+    "description": "Get funded to trade with proprietary trading firms. Compare challenge costs.",
+    "icon": "Briefcase",
+    "count": 15,
+    "color": "#EC4899"
+  }
+]

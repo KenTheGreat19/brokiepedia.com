@@ -1,0 +1,322 @@
+[
+  {
+    "id": "casino-1",
+    "slug": "stake",
+    "name": "Stake.com",
+    "logo": "/logos/stake.svg",
+    "rating": 4.7,
+    "trustScore": 93,
+    "reviewCount": 28394,
+    "minDeposit": 10,
+    "payout": "98.5%",
+    "regulation": ["Curacao eGaming"],
+    "regulationFlags": ["🇨🇼"],
+    "welcomeBonus": "200% up to $2,000 + 50 Free Spins",
+    "established": 2017,
+    "headquarters": "Curacao",
+    "category": "casino",
+    "scores": {
+      "regulationSafety": 88,
+      "bonuses": 95,
+      "gameSelection": 96,
+      "mobileExperience": 94,
+      "withdrawalSpeed": 97,
+      "customerSupport": 91
+    },
+    "pros": [
+      "Instant crypto withdrawals",
+      "4,000+ casino games",
+      "VIP rewards program",
+      "Live sports betting"
+    ],
+    "cons": [
+      "Curacao license only",
+      "Not available in US/UK",
+      "High wagering requirements"
+    ],
+    "specs": {
+      "slots": 3500,
+      "liveDealer": 250,
+      "sportsbook": true,
+      "cryptoFriendly": true,
+      "withdrawalTime": "Instant",
+      "paymentMethods": ["Bitcoin", "Ethereum", "Litecoin", "Dogecoin", "USDT", "Credit Card"]
+    },
+    "overview": "Stake.com is a leading crypto casino and sportsbook known for its vast game selection and lightning-fast withdrawals. Founded in 2017, Stake has become one of the most popular online casinos, particularly among crypto enthusiasts. The platform offers over 4,000 casino games plus a comprehensive sportsbook.",
+    "verdict": "Stake excels in providing a seamless crypto gambling experience with instant withdrawals and generous bonuses. The huge game library and live betting options make it a top choice. However, the Curacao-only license and geographic restrictions are drawbacks.",
+    "featured": true,
+    "newSite": false,
+    "lastUpdated": "2025-11-26",
+    "affiliateUrl": "https://stake.com/?c=12345",
+    "faqs": [
+      {
+        "question": "Is Stake casino legit?",
+        "answer": "Yes, Stake is licensed by Curacao eGaming and has processed billions in transactions since 2017. They're one of the most trusted crypto casinos."
+      },
+      {
+        "question": "How fast are Stake withdrawals?",
+        "answer": "Crypto withdrawals on Stake are instant, typically processing within minutes."
+      },
+      {
+        "question": "Does Stake accept US players?",
+        "answer": "No, Stake.com does not accept players from the United States. US players can use Stake.us instead."
+      }
+    ]
+  },
+  {
+    "id": "casino-2",
+    "slug": "bet365",
+    "name": "Bet365",
+    "logo": "/logos/bet365.svg",
+    "rating": 4.8,
+    "trustScore": 97,
+    "reviewCount": 52341,
+    "minDeposit": 10,
+    "payout": "96.8%",
+    "regulation": ["UKGC", "MGA", "Gibraltar"],
+    "regulationFlags": ["🇬🇧", "🇲🇹", "🇬🇮"],
+    "welcomeBonus": "Bet $10 Get $200 in Bonus Bets",
+    "established": 2000,
+    "headquarters": "Stoke-on-Trent, UK",
+    "category": "sports-betting",
+    "scores": {
+      "regulationSafety": 99,
+      "bonuses": 92,
+      "gameSelection": 95,
+      "mobileExperience": 98,
+      "withdrawalSpeed": 94,
+      "customerSupport": 96
+    },
+    "pros": [
+      "Best-in-class sportsbook",
+      "Live streaming included",
+      "World-class mobile app",
+      "Top-tier regulation"
+    ],
+    "cons": [
+      "Not available in US",
+      "Strict terms for bonuses",
+      "Can limit winning accounts"
+    ],
+    "specs": {
+      "slots": 1200,
+      "liveDealer": 180,
+      "sportsbook": true,
+      "cryptoFriendly": false,
+      "withdrawalTime": "1-3 business days",
+      "paymentMethods": ["Credit Card", "Debit Card", "Bank Transfer", "PayPal", "Skrill", "Neteller", "Paysafecard"]
+    },
+    "overview": "Bet365 is the world's largest online gambling company with over 90 million customers. Known for their exceptional sportsbook with live streaming and in-play betting, Bet365 also offers a full casino with over 1,200 slot games and live dealer tables. They're regulated by the UK Gambling Commission, Malta Gaming Authority, and Gibraltar.",
+    "verdict": "Bet365 sets the gold standard for online sports betting and gambling. Their platform is unmatched in terms of reliability, features, and mobile experience. The only downsides are geographic restrictions and strict bonus terms.",
+    "featured": true,
+    "newSite": false,
+    "lastUpdated": "2025-11-28",
+    "affiliateUrl": "https://bet365.com/olp/affiliates/12345",
+    "faqs": [
+      {
+        "question": "Is Bet365 legal and safe?",
+        "answer": "Yes, Bet365 is fully licensed by UKGC, MGA, and Gibraltar, making it one of the safest gambling sites globally."
+      },
+      {
+        "question": "Can I watch live sports on Bet365?",
+        "answer": "Yes, Bet365 offers free live streaming of thousands of sporting events for customers with funded accounts."
+      },
+      {
+        "question": "What is the minimum bet on Bet365?",
+        "answer": "The minimum bet varies by market but is typically $0.10 to $1.00."
+      }
+    ]
+  },
+  {
+    "id": "casino-3",
+    "slug": "draftkings",
+    "name": "DraftKings",
+    "logo": "/logos/draftkings.svg",
+    "rating": 4.6,
+    "trustScore": 95,
+    "reviewCount": 34821,
+    "minDeposit": 5,
+    "payout": "96.2%",
+    "regulation": ["State Licenses (US)", "SGA"],
+    "regulationFlags": ["🇺🇸"],
+    "welcomeBonus": "Bet $5, Get $200 Instantly",
+    "established": 2012,
+    "headquarters": "Boston, USA",
+    "category": "sports-betting",
+    "scores": {
+      "regulationSafety": 96,
+      "bonuses": 94,
+      "gameSelection": 92,
+      "mobileExperience": 97,
+      "withdrawalSpeed": 90,
+      "customerSupport": 93
+    },
+    "pros": [
+      "Legal in 25+ US states",
+      "Industry-leading mobile app",
+      "Daily fantasy sports",
+      "Frequent promotions"
+    ],
+    "cons": [
+      "High wagering requirements",
+      "Limited outside US",
+      "Customer service wait times"
+    ],
+    "specs": {
+      "slots": 800,
+      "liveDealer": 120,
+      "sportsbook": true,
+      "cryptoFriendly": false,
+      "withdrawalTime": "1-5 business days",
+      "paymentMethods": ["Credit Card", "Debit Card", "Bank Transfer", "PayPal", "Online Banking"]
+    },
+    "overview": "DraftKings is a publicly-traded company and the second-largest sports betting operator in the United States. Originally known for daily fantasy sports, DraftKings now operates sportsbooks and online casinos in 25+ states. Their mobile app is consistently rated as the best in the industry.",
+    "verdict": "DraftKings is the top choice for US-based sports bettors seeking a legal, regulated platform. The generous promotions and excellent mobile experience make it a winner. However, availability is limited to certain states.",
+    "featured": true,
+    "newSite": false,
+    "lastUpdated": "2025-11-27",
+    "affiliateUrl": "https://sportsbook.draftkings.com/r/12345",
+    "faqs": [
+      {
+        "question": "Is DraftKings legal?",
+        "answer": "Yes, DraftKings is fully legal and licensed in 25+ US states where online gambling is permitted."
+      },
+      {
+        "question": "How do I claim the DraftKings bonus?",
+        "answer": "Sign up, make a $5 deposit, place a $5 bet, and receive $200 in bonus bets instantly."
+      },
+      {
+        "question": "What states is DraftKings available in?",
+        "answer": "DraftKings Sportsbook is available in AZ, CO, CT, IL, IN, IA, KS, KY, LA, MA, MD, MI, NJ, NY, OH, PA, TN, VA, WV, WY, and more."
+      }
+    ]
+  },
+  {
+    "id": "casino-4",
+    "slug": "bc-game",
+    "name": "BC.Game",
+    "logo": "/logos/bcgame.svg",
+    "rating": 4.5,
+    "trustScore": 89,
+    "reviewCount": 19283,
+    "minDeposit": 1,
+    "payout": "98.2%",
+    "regulation": ["Curacao eGaming"],
+    "regulationFlags": ["🇨🇼"],
+    "welcomeBonus": "300% up to $20,000",
+    "established": 2017,
+    "headquarters": "Curacao",
+    "category": "casino",
+    "scores": {
+      "regulationSafety": 85,
+      "bonuses": 97,
+      "gameSelection": 94,
+      "mobileExperience": 91,
+      "withdrawalSpeed": 96,
+      "customerSupport": 87
+    },
+    "pros": [
+      "70+ cryptocurrencies accepted",
+      "Massive welcome bonus",
+      "10,000+ games",
+      "Instant withdrawals"
+    ],
+    "cons": [
+      "Curacao license only",
+      "Complex bonus terms",
+      "Not available in some regions"
+    ],
+    "specs": {
+      "slots": 8500,
+      "liveDealer": 300,
+      "sportsbook": true,
+      "cryptoFriendly": true,
+      "withdrawalTime": "Instant",
+      "paymentMethods": ["Bitcoin", "Ethereum", "Litecoin", "Dogecoin", "USDT", "70+ Cryptos"]
+    },
+    "overview": "BC.Game is a crypto-focused casino and sportsbook with one of the largest game libraries in the industry. Accepting 70+ cryptocurrencies and offering a massive 300% welcome bonus, BC.Game has become extremely popular among crypto gamblers. The platform features provably fair games and instant withdrawals.",
+    "verdict": "BC.Game is ideal for crypto enthusiasts who want a huge selection of games and generous bonuses. The instant withdrawals and multi-crypto support are major advantages. However, the Curacao-only license may deter some players.",
+    "featured": false,
+    "newSite": false,
+    "lastUpdated": "2025-11-24",
+    "affiliateUrl": "https://bc.game/i-12345",
+    "faqs": [
+      {
+        "question": "What cryptocurrencies does BC.Game accept?",
+        "answer": "BC.Game accepts 70+ cryptocurrencies including BTC, ETH, LTC, DOGE, USDT, and many altcoins."
+      },
+      {
+        "question": "How fast are BC.Game withdrawals?",
+        "answer": "Withdrawals are processed instantly, typically arriving within minutes."
+      },
+      {
+        "question": "Is BC.Game provably fair?",
+        "answer": "Yes, BC.Game offers provably fair games where you can verify the fairness of each bet."
+      }
+    ]
+  },
+  {
+    "id": "casino-5",
+    "slug": "888casino",
+    "name": "888 Casino",
+    "logo": "/logos/888casino.svg",
+    "rating": 4.4,
+    "trustScore": 91,
+    "reviewCount": 41209,
+    "minDeposit": 10,
+    "payout": "96.5%",
+    "regulation": ["UKGC", "MGA", "Gibraltar", "NJDGE"],
+    "regulationFlags": ["🇬🇧", "🇲🇹", "🇬🇮", "🇺🇸"],
+    "welcomeBonus": "100% up to $1,000 + 88 Free Spins",
+    "established": 1997,
+    "headquarters": "Gibraltar",
+    "category": "casino",
+    "scores": {
+      "regulationSafety": 95,
+      "bonuses": 89,
+      "gameSelection": 90,
+      "mobileExperience": 92,
+      "withdrawalSpeed": 88,
+      "customerSupport": 94
+    },
+    "pros": [
+      "25+ years in business",
+      "Publicly traded company",
+      "Exclusive 888 games",
+      "Multiple top-tier licenses"
+    ],
+    "cons": [
+      "Lower game variety than competitors",
+      "Wagering requirements on bonuses",
+      "Slower withdrawals"
+    ],
+    "specs": {
+      "slots": 2000,
+      "liveDealer": 150,
+      "sportsbook": false,
+      "cryptoFriendly": false,
+      "withdrawalTime": "1-6 business days",
+      "paymentMethods": ["Credit Card", "Debit Card", "Bank Transfer", "PayPal", "Skrill", "Neteller", "Apple Pay"]
+    },
+    "overview": "888 Casino is one of the oldest and most established online casinos, operating since 1997. As a publicly-traded company, 888 Holdings offers transparency and reliability. The casino is licensed by UKGC, MGA, Gibraltar, and even operates legally in New Jersey. 888 Casino features exclusive games you won't find elsewhere.",
+    "verdict": "888 Casino is a safe, trustworthy choice for players who value stability and regulation over cutting-edge features. The brand's longevity and multiple licenses provide peace of mind, though the game selection is smaller than newer competitors.",
+    "featured": false,
+    "newSite": false,
+    "lastUpdated": "2025-11-21",
+    "affiliateUrl": "https://888casino.com/?sr=12345",
+    "faqs": [
+      {
+        "question": "Is 888 Casino legit?",
+        "answer": "Yes, 888 Casino is one of the most legitimate online casinos, operating since 1997 and publicly traded on the London Stock Exchange."
+      },
+      {
+        "question": "Does 888 Casino have a mobile app?",
+        "answer": "Yes, 888 Casino offers dedicated mobile apps for iOS and Android, plus a mobile-optimized website."
+      },
+      {
+        "question": "What is the 888 Casino welcome bonus?",
+        "answer": "New players receive a 100% match bonus up to $1,000 plus 88 free spins on selected slots."
+      }
+    ]
+  }
+]
