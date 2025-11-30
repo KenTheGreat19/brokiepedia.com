@@ -11,7 +11,7 @@ import { Progress } from "@/components/ui/progress";
 import { Separator } from "@/components/ui/separator";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
-import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
+import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { RatingStars } from "@/components/RatingStars";
 import { TrustScoreCircle } from "@/components/TrustScoreCircle";
@@ -54,7 +54,7 @@ export default function BrokerReviewPage({ params }: BrokerReviewPageProps) {
     notFound();
   }
 
-  const averageScore = Math.round(
+  Math.round(
     (broker.scores.regulationSafety +
       broker.scores.fees +
       broker.scores.accountOpening +

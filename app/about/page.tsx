@@ -17,7 +17,7 @@ export default function AboutPage() {
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">About Brokiepedia</h1>
         <p className="text-xl text-muted-foreground mb-12">
-          Don't Get Brokie – Our mission is to protect traders and gamblers from scams
+          Don&apos;t Get Brokie – Our mission is to protect traders and gamblers from scams
         </p>
 
         <div className="prose prose-lg max-w-none mb-12">
@@ -28,7 +28,7 @@ export default function AboutPage() {
           </p>
 
           <p>
-            Our motto, <strong>"Don't Get Brokie,"</strong> is more than just a catchy phrase. It's a
+            Our motto, <strong>&quot;Don&apos;t Get Brokie,&quot;</strong> is more than just a catchy phrase. It&apos;s a
             commitment to keep you financially safe by providing brutally honest, independent reviews
             of every broker, casino, and trading platform we cover.
           </p>

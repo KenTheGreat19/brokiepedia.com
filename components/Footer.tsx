@@ -140,7 +140,7 @@ export function Footer() {
           <div className="text-sm text-muted-foreground text-center md:text-left">
             <p>© {currentYear} Brokiepedia. All rights reserved.</p>
             <p className="text-xs mt-1">
-              <strong>Don't Get Brokie</strong> – Real Reviews on Brokers, Casinos & Trading Apps
+              <strong>Don&apos;t Get Brokie</strong> – Real Reviews on Brokers, Casinos &amp; Trading Apps
             </p>
           </div>
           

@@ -29,7 +29,7 @@ export default function BanksPage() {
           <div className="text-6xl mb-4">🏦</div>
           <h2 className="text-2xl font-bold mb-4">Coming Soon</h2>
           <p className="text-muted-foreground mb-6">
-            We're currently reviewing the best neobanks and digital card providers.
+            We&apos;re currently reviewing the best neobanks and digital card providers.
             Check back soon for comprehensive reviews!
           </p>
           <Badge variant="default">In Progress</Badge>

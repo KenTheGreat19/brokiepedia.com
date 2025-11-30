@@ -18,7 +18,7 @@ export default function PrivacyPolicyPage() {
 
         <h2>1. Information We Collect</h2>
         <p>
-          Brokiepedia ("we," "us," or "our") collects information that you provide directly to us when you:
+          Brokiepedia (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects information that you provide directly to us when you:
         </p>
         <ul>
           <li>Subscribe to our newsletter</li>

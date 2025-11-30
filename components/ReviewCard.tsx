@@ -10,7 +10,6 @@ import { Button } from "@/components/ui/button";
 import { RatingStars } from "./RatingStars";
 import { TrustScoreCircle } from "./TrustScoreCircle";
 import { ProsCons } from "./ProsCons";
-import { cn } from "@/lib/utils";
 import type { ReviewCardProps } from "@/types";
 
 /**
@@ -144,8 +143,9 @@ export function ReviewCard({
             rel="noopener noreferrer sponsored"
             onClick={() => {
               // Track affiliate click
-              if (typeof window !== "undefined" && window.gtag) {
-                window.gtag("event", "affiliate_click", {
+              const windowWithGtag = window as typeof window & { gtag?: (event: string, action: string, details: Record<string, string>) => void };
+              if (typeof window !== "undefined" && windowWithGtag.gtag) {
+                windowWithGtag.gtag("event", "affiliate_click", {
                   broker_name: name,
                   broker_id: id,
                 });

@@ -18,7 +18,7 @@ export default function TermsPage() {
 
         <h2>1. Acceptance of Terms</h2>
         <p>
-          By accessing and using Brokiepedia.com ("the Website"), you accept and agree to be bound by
+          By accessing and using Brokiepedia.com (&quot;the Website&quot;), you accept and agree to be bound by
           these Terms of Service. If you do not agree to these terms, please do not use the Website.
         </p>
 
@@ -33,7 +33,7 @@ export default function TermsPage() {
 
         <h2 id="disclaimer">3. Disclaimer of Warranties</h2>
         <p>
-          <strong>THE WEBSITE AND ALL CONTENT ARE PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND.</strong>
+          <strong>THE WEBSITE AND ALL CONTENT ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTIES OF ANY KIND.</strong>
         </p>
         <p>
           Brokiepedia provides reviews and information for educational purposes only. We do not provide

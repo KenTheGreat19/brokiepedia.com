@@ -18,7 +18,7 @@ export default function ContactPage() {
       <div className="max-w-2xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
         <p className="text-lg text-muted-foreground mb-12">
-          We'd love to hear from you. Send us a message and we'll respond within 24 hours.
+          We&apos;d love to hear from you. Send us a message and we&apos;ll respond within 24 hours.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">

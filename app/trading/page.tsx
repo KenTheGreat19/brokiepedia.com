@@ -1,8 +1,6 @@
 import React from "react";
 import type { Metadata } from "next";
-import Link from "next/link";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { ReviewCard } from "@/components/ReviewCard";
 import brokersData from "@/data/brokers.json";

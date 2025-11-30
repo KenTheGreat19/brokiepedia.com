@@ -121,7 +121,7 @@ export default function BrokersPage() {
 
       {/* Bottom CTA */}
       <div className="mt-12 bg-gradient-to-r from-brand-400 to-brand-600 rounded-lg p-8 text-center text-white">
-        <h2 className="text-2xl font-bold mb-4">Can't Decide? We Can Help</h2>
+        <h2 className="text-2xl font-bold mb-4">Can&apos;t Decide? We Can Help</h2>
         <p className="mb-6">Use our comparison tool to see brokers side-by-side</p>
         <Button variant="secondary" size="lg" asChild>
           <Link href="/compare">Compare Brokers</Link>

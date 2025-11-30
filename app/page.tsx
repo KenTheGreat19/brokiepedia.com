@@ -48,7 +48,7 @@ export default function HomePage() {
     .sort((a, b) => new Date(b.lastUpdated).getTime() - new Date(a.lastUpdated).getTime())
     .slice(0, 6);
 
-  const iconMap: Record<string, any> = {
+  const iconMap: Record<string, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
     TrendingUp,
     Bitcoin,
     Trophy,
@@ -69,11 +69,11 @@ export default function HomePage() {
           </Badge>
           
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-            Don't Get Brokie
+            Don&apos;t Get Brokie
           </h1>
           
           <p className="text-xl md:text-2xl text-white/90 mb-12 max-w-3xl mx-auto">
-            Real Reviews on Brokers, Casinos & Trading Apps
+            Real Reviews on Brokers, Casinos &amp; Trading Apps
             <br />
             <span className="text-lg">100% Independent • Updated 2025 • Zero Scams</span>
           </p>
