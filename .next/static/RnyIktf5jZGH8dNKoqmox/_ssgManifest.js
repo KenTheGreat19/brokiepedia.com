@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fbroker\u002F[slug]","\u002Fcasino\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
